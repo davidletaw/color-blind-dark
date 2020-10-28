@@ -1,8 +1,8 @@
 {
-	"name": "Color Blind Dark",
+	"name": "Highlighter Contrast Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#000037",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -100,7 +100,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#0ce900"
 			}
 		},
 		{
