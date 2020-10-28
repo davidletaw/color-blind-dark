@@ -1,0 +1,21 @@
+{
+    "name": "color-blind-dark",
+    "displayName": "Color Blind Dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Color Blind Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Color Blind Dark-color-theme.json"
+            }
+        ]
+    }
+}
