@@ -1,6 +1,6 @@
 {
-    "name": "color-blind-dark",
-    "displayName": "Color Blind Dark",
+    "name": "highlighter-contrast-dark",
+    "displayName": "Highlighter Contrast Dark",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Color Blind Dark",
+                "label": "Highlighter Contrast Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Color Blind Dark-color-theme.json"
             }
